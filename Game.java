@@ -1,7 +1,6 @@
-package Lab5;
 
 /**
- * This class implements a game like 'among us'
+ * This class implements the backend of a game like 'among us'
  *
  */
 public class Game {
